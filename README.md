@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Fake Social Media Account Detection
 
-🚀 **Live App:** https://your-app-name.streamlit.app](https://satya012904-ml-fake-social-media-detection-app-seso5x.streamlit.app/
+🚀 **Live App:** https://satya012904-ml-fake-social-media-detection-app-seso5x.streamlit.app/
 👉 [Click here to try the application](https://satya012904-ml-fake-social-media-detection-app-seso5x.streamlit.app/)
 
 ---
