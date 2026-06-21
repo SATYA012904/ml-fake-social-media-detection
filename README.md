@@ -57,4 +57,3 @@ This project focuses on identifying fake social media accounts by analyzing vari
 
 ---
 
-## ⚙️ Project Structure
